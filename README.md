@@ -4,20 +4,21 @@ A popular example is the adult income dataset that involves predicting personal 
 
 The dataset provides 14 input variables that are a mixture of categorical, ordinal, and numerical data types. The complete list of variables is as follows:
 
-Age\n
-Workclass.
-Final Weight.
-Education.
-Education Number of Years.
-Marital-status.
-Occupation.
-Relationship.
-Race.
-Sex.
-Capital-gain.
-Capital-loss.
-Hours-per-week.
-Native-country.
+Age,"\n"
+Workclass,
+Final Weight,
+Education,
+Education Number of Years,
+Marital-status,
+Occupation,
+Relationship,
+Race,
+Sex,
+Capital-gain,
+Capital-loss,
+Hours-per-week,
+Native-country and Income
+
 The dataset contains missing values that are marked with a question mark character (?).
 
 There are a total of 48,842 rows of data, and 3,620 with missing values, leaving 45,222 complete rows.
