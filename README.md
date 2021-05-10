@@ -4,7 +4,7 @@ A popular example is the adult income dataset that involves predicting personal 
 
 The dataset provides 14 input variables that are a mixture of categorical, ordinal, and numerical data types. The complete list of variables is as follows:
 
-Age,"\n"
+Age,
 Workclass,
 Final Weight,
 Education,
